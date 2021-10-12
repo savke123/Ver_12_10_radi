@@ -1,0 +1,16 @@
+ecjpake.c:156:12:ecjpake_write_len_point	32	static
+ecjpake.c:193:12:ecjpake_hash	416	static
+ecjpake.c:376:12:ecjpake_kkp_read	160	static
+ecjpake.c:315:12:ecjpake_zkp_write	112	static
+ecjpake.c:413:12:ecjpake_kkp_write	72	static
+ecjpake.c:551:12:ecjpake_ecp_add3	48	static
+ecjpake.c:635:12:ecjpake_mul_secret	40	static
+ecjpake.c:62:6:mbedtls_ecjpake_init	16	static
+ecjpake.c:84:6:mbedtls_ecjpake_free	8	static
+ecjpake.c:106:5:mbedtls_ecjpake_setup	16	static
+ecjpake.c:139:5:mbedtls_ecjpake_check	0	static
+ecjpake.c:516:5:mbedtls_ecjpake_read_round_one	56	static
+ecjpake.c:532:5:mbedtls_ecjpake_write_round_one	88	static
+ecjpake.c:574:5:mbedtls_ecjpake_read_round_two	208	static
+ecjpake.c:666:5:mbedtls_ecjpake_write_round_two	160	static
+ecjpake.c:748:5:mbedtls_ecjpake_derive_secret	152	static

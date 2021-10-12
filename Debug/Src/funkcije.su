@@ -1,0 +1,9 @@
+funkcije.c:11:6:LedRingOff	8	static
+funkcije.c:17:6:SensorsOff	8	static
+funkcije.c:23:6:ChargersOff	8	static
+funkcije.c:31:6:LedRingOn	8	static
+funkcije.c:37:6:SensorsOn	8	static
+funkcije.c:42:6:ChargersOn	8	static
+funkcije.c:49:6:ButOn	16	static
+funkcije.c:60:6:MainSW	8	static
+funkcije.c:69:6:OutsOff	16	static

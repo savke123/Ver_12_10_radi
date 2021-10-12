@@ -1,0 +1,7 @@
+mqtt_task.c:145:6:StartT4ADC	16	static
+mqtt_task.c:74:6:StartT2RTC	16	static
+mqtt_task.c:96:6:StartT3MPPT	416	static
+mqtt_task.c:214:6:MqttMessageArrived	16	static
+mqtt_task.c:41:6:MqttClientPubTask	48	static
+mqtt_task.c:157:5:MqttConnectBroker	136	static
+mqtt_task.c:19:6:MqttClientSubTask	8	static

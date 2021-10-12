@@ -1,0 +1,16 @@
+aes.c:1153:13:mbedtls_gf128mul_x_ble	36	static
+aes.c:518:6:mbedtls_aes_init	8	static
+aes.c:525:6:mbedtls_aes_free	8	static
+aes.c:534:6:mbedtls_aes_xts_init	8	static
+aes.c:542:6:mbedtls_aes_xts_free	8	static
+aes.c:556:5:mbedtls_aes_setkey_enc	16	static
+aes.c:672:5:mbedtls_aes_setkey_dec	336	static
+aes.c:765:5:mbedtls_aes_xts_setkey_enc	16	static
+aes.c:790:5:mbedtls_aes_xts_setkey_dec	16	static
+aes.c:870:5:mbedtls_internal_aes_encrypt	56	static
+aes.c:926:6:mbedtls_aes_encrypt	8	static
+aes.c:938:5:mbedtls_internal_aes_decrypt	56	static
+aes.c:994:6:mbedtls_aes_decrypt	8	static
+aes.c:1005:5:mbedtls_aes_crypt_ecb	8	static
+aes.c:1171:5:mbedtls_aes_crypt_xts	96	static
+aes.c:1381:5:mbedtls_aes_crypt_ofb	40	static

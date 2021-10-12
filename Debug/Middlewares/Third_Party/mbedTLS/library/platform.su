@@ -1,0 +1,3 @@
+platform.c:76:5:mbedtls_platform_set_calloc_free	0	static
+platform.c:334:5:mbedtls_platform_setup	0	static
+platform.c:344:6:mbedtls_platform_teardown	0	static

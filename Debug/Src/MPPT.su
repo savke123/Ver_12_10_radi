@@ -1,0 +1,2 @@
+MPPT.c:36:6:setMpptMode	128	static
+MPPT.c:66:15:getMppt	368	static
